@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Certificates
+*.key
+*.crt
+*.csr
+*.srl
+
+# MQTT
+passwd.txt
+mosquitto.log
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
